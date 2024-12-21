@@ -8,7 +8,7 @@
 ---
 アプリのアイデアを具体化するために、Reactコンポーネントを作成してみましょう。
 
-
+<img width="677" alt="スクリーンショット 2024-12-21 13 04 09" src="https://github.com/user-attachments/assets/f4d32f5e-5722-427c-85bd-1b764740321e" />
 
 ```tsx
 import React, { useState } from 'react';
@@ -169,6 +169,9 @@ export default SchedulePlanner;
 ---
 進捗管理と実績分析の画面を追加したコンポーネントを作成します。
 
+<img width="675" alt="スクリーンショット 2024-12-21 13 04 21" src="https://github.com/user-attachments/assets/17acfaa3-e12f-4892-80df-f3c2da0fbaa8" />
+
+<img width="663" alt="スクリーンショット 2024-12-21 13 06 56" src="https://github.com/user-attachments/assets/f6121664-cff0-40ec-9c8c-29aeffdc9d83" />
 
 
 ```tsx
