@@ -115,6 +115,7 @@ Phase 3: SNS連携
 
 はい、飲食店オーナー向けの使いやすいUIを設計してみましょう。Material Designベースのモダンなインターフェースを提案させていただきます。
 
+![スクリーンショット 2024-12-23 8 48 40](https://github.com/user-attachments/assets/0d39d93f-5686-4dfb-8733-e158479ae7e6)
 
 
 ```tsx
