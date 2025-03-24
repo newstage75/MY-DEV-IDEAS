@@ -15,4 +15,4 @@
 - 過去の自分の感想などを見返せる
 
 ### 使用技術
-Next、TypeScript、NextAuth、prisma、zod、sqlite
+Next、TypeScript、NextAuth、prisma、zod、sqlite（手始めに）
